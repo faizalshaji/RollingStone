@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/RollingStone/Library
+/RollingStone/Logs
+/RollingStone/obj/Debug
+/RollingStone/Packages
+/RollingStone/Temp
+/RollingStone/UserSettings
